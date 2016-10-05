@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/wamp/www/platformFreelance/database/migrations/2016_10_05_131507_comment.php</file>
+            <file>file:/C:/wamp/www/platformFreelance/public/index.php</file>
+            <file>file:/C:/wamp/www/platformFreelance/app/Http/Controllers/AdminController.php</file>
+            <file>file:/C:/wamp/www/platformFreelance/app/Freelance.php</file>
+            <file>file:/C:/wamp/www/platformFreelance/app/Societe.php</file>
+            <file>file:/C:/wamp/www/platformFreelance/database/migrations/2016_10_05_095552_createFreelance.php</file>
+            <file>file:/C:/wamp/www/platformFreelance/database/migrations/2014_10_12_000000_create_users_table.php</file>
+            <file>file:/C:/wamp/www/platformFreelance/database/migrations/2016_10_05_120410_offre.php</file>
+            <file>file:/C:/wamp/www/platformFreelance/app/Http/Controllers/HomeController.php</file>
+            <file>file:/C:/wamp/www/platformFreelance/database/migrations/2016_10_05_121454_admission.php</file>
+            <file>file:/C:/wamp/www/platformFreelance/database/migrations/2016_10_05_114755_createCompany.php</file>
+            <file>file:/C:/wamp/www/platformFreelance/app/Http/routes.php</file>
+        </group>
+    </open-files>
+</project-private>
